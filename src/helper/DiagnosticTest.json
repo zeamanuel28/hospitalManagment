@@ -1,0 +1,26 @@
+[
+    {
+      "name": "MRI"
+    },
+    {
+      "name": "CT Scan"
+    },  
+    {
+      "name": "X-Ray"
+    },
+    {
+      "name": "Ultrasound"    
+    },
+    {
+      "name": "Blood Test"
+    },
+    {
+      "name": "Bone Density Scan"
+    },
+    {
+      "name": "Biopsy"
+    },
+    {
+      "name": "Endoscopy"
+    }
+  ]

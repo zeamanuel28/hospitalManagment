@@ -1,0 +1,98 @@
+[
+    {
+      "city": "Addis Ababa",
+      "subCities": [
+        {
+          "name": "Lideta"  
+        },
+        {
+          "name": "Kirkos"
+        },
+        {  
+          "name": "Arada"
+        },
+        {
+          "name": "Bole"  
+        },
+        {
+          "name": "Akaki Kaliti"
+        },
+        {
+          "name": "Gulele"
+        }, 
+        {
+          "name": "Nifas silk"
+        },
+        {
+          "name": "Kolfe Keranio"  
+        },
+        {
+          "name": "Yeka"
+        }
+      ]
+    },
+    {
+      "city": "Bahir Dar",
+      "subCities": [
+        {
+          "name": "Bahir Dar"
+        },
+        {
+          "name": "Dembia"
+        },
+        {
+          "name": "Libo Kemkem" 
+        },
+        {
+          "name": "Fogera"
+        },
+        {
+          "name": "Gore"
+        },
+        {
+          "name": "Mecha"
+        },
+        {
+          "name": "Gimbi" 
+        },
+        {
+          "name": "Jawi"
+        },
+        {
+          "name": "Jema"  
+        }
+      ]
+    },
+    {
+      "city": "Hawassa",
+      "subCities": [
+        {
+           "name": "Hawassa"  
+         },
+         {
+           "name": "Wunro"  
+         },
+         {
+           "name": "Sodore"
+         },
+         {
+           "name": "Daramose" 
+         },
+         {
+           "name": "Bako Tibe"
+         },
+         {
+           "name": "Bulki"
+         },
+         {
+           "name": "Dembia"
+         },
+         {
+           "name": "Dara"
+         },
+         { 
+           "name": "Lume"
+         }
+       ]
+     }
+  ]

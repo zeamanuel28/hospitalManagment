@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Emergency",
+      "description": "Treats acute and life-threatening illnesses and injuries."
+    },
+    {   
+      "name": "Internal Medicine",
+      "description": "Treats chronic conditions such as diabetes and heart disease."
+    },
+    {
+      "name": "Surgery", 
+      "description": "Performs surgical procedures to treat conditions or injuries."
+    },
+    {
+      "name": "Pediatrics",
+      "description": "Treats infants, children, and adolescents."  
+    },
+    {
+      "name": "Obstetrics and Gynecology",
+      "description": "Provides care related to pregnancy, childbirth, and women's health."
+    },
+    {
+      "name": "Cardiology", 
+      "description": "Specializes in conditions of the heart and blood vessels."
+    },  
+    {
+      "name": "Oncology",
+      "description": "Treats cancer and tumors through therapies like chemotherapy."
+    },
+    {
+      "name": "Radiology",
+      "description": "Uses medical imaging techniques to diagnose and treat diseases." 
+    },
+    {
+      "name": "Neurology",
+      "description": "Treats diseases and disorders of the brain and nervous system."
+    }
+  ]

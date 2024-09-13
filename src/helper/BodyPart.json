@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Head",
+      "subParts": [
+        {"name": "Brain"},
+        {"name": "Sinuses"},
+        {"name": "Eyes"}, 
+        {"name": "Ears"},
+        {"name": "Mouth"},
+        {"name": "Teeth"}
+      ]
+    },
+    {
+      "name": "Neck"  
+    },
+    {
+      "name": "Chest",
+      "subParts": [
+        {"name": "Heart"},
+        {"name": "Lungs"}, 
+        {"name": "Breast"}
+      ]
+    },
+    { 
+      "name": "Abdomen",
+      "subParts": [
+        {"name": "Stomach"},
+        {"name": "Liver"},
+        {"name": "Gallbladder"},
+        {"name": "Pancreas"},
+        {"name": "Kidneys"},
+        {"name": "Spleen"},
+        {"name": "Intestines"}  
+      ]
+    },
+    {
+      "name": "Pelvis",
+      "subParts": [
+        {"name": "Uterus"},
+        {"name": "Ovaries"},
+        {"name": "Prostate"},
+        {"name": "Testes"}
+      ]  
+    },
+    {
+      "name": "Spine", 
+      "subParts": [
+        {"name": "Cervical"},
+        {"name": "Thoracic"},
+        {"name": "Lumbar"},
+        {"name": "Sacrum"}
+      ]
+    },
+    {
+      "name": "Upper Extremities",
+      "subParts": [
+        {"name": "Shoulder"},
+        {"name": "Arm"},
+        {"name": "Elbow"},
+        {"name": "Forearm"},
+        {"name": "Wrist"},
+        {"name": "Hand"},
+        {"name": "Fingers"}  
+      ]
+    },
+    {
+      "name": "Lower Extremities", 
+      "subParts": [
+        {"name": "Hip"},
+        {"name": "Thigh"},
+        {"name": "Knee"},
+        {"name": "Lower Leg"},
+        {"name": "Ankle"},
+        {"name": "Foot"},
+        {"name": "Toes"}
+      ]
+    },
+    {
+      "name": "Skin"
+    },
+    {
+      "name": "Lymph Nodes"
+    },
+    {
+      "name": "Bones & Joints"},
+    {
+      "name": "Muscles"}, 
+    {
+      "name": "Vascular System"},
+    {
+      "name": "Nervous System"}
+  ]
